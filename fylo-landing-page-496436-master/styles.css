@@ -1,0 +1,52 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.navbar-brand {
+  font-family: "Raleway", sans-serif;
+}
+
+.navbar-nav {
+  text-align: left;
+}
+
+.nav-item {
+  font-family: "Raleway", sans-serif;
+}
+
+/* Features */
+
+.fylo-feature-heading {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+}
+
+.feature-img {
+  object-fit: contain;
+}
+
+.feature-detail {
+  font-size: 0.85rem;
+}
+
+.description {
+  background-color: #fff;
+}
+
+.testimonials {
+  background-color: hsl(240, 75%, 98%);
+}
+
+.testimonial-one {
+  background-color: #fff;
+}
+
+#access {
+  background-color: hsl(238, 22%, 44%);
+  color: #fff;
+}
+
+#contact {
+  background-color: hsl(243, 87%, 12%);
+  color: #fff;
+}
